@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Web Site</title>
+    <meta name="description" content=" The web page description that often shows up in search results goes in here.">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+    <meta name="author" content="Your Name">
+
+    <!-- link to an external CSS file for styling the web page -->
+    <link rel="stylesheet" href="stylesheet.css">
+
+    <!-- link to an external JS file for JS magic -->
+    <script type="text/javascript" src="script.js"></script>
+  </head>
+  <body>
+     Not long now before we get to the fun stuff
+  </body>
+</html>

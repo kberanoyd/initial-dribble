@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Div</title>
+  </head>
+  <body>
+  	<!--Dont worry about the style attribute for now
+  	it is used here only to highlight the default dimensions of the div-->
+    <div style="border:1px solid #e84610;">A Div's width will occupy all the horizontal space available to it. A Div's height will match the height of its content. Resize the browser panel to see this in action</div>
+  </body>
+</html>
